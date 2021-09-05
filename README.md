@@ -1,3 +1,5 @@
-Meu primeiro sistema de arquivo.
+Mudanças no sistema de arquivo.
 
-Nova alteração.
+Aprendendo a diferenciar as mudanças.
+Nova linha.
+Utilizando o github.
